@@ -1,6 +1,6 @@
 {
     "range": 2000,
-    "blacklist_str": [
+    "blacklist": [
         "bt_def",
         "Hitbox",
         "config_data",
