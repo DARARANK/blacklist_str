@@ -43,7 +43,6 @@
         "error",
         "string",
         "alloc",
-        "Loader",
         "mojom",
         "Message",
         "proxy",
