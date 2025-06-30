@@ -73,7 +73,6 @@
         "memory",
         "Hashing",
         "txAdmin",
-        "integer",
         "double",
         "uint64",
         "uint32",
